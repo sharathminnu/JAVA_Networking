@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java_programming/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Java_programming/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_programming/DSA/DSA.iml" filepath="$PROJECT_DIR$/Java_programming/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_programming/Functions/Functions.iml" filepath="$PROJECT_DIR$/Java_programming/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_Networking.iml" filepath="$PROJECT_DIR$/.idea/JAVA_Networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_programming/Java_codes/Java_codes.iml" filepath="$PROJECT_DIR$/Java_programming/Java_codes/Java_codes.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pdf2doc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Comptia_Networking/pdf2doc.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
